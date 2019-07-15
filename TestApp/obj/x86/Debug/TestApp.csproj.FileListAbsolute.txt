@@ -1,0 +1,6 @@
+/Users/leiannelouis/Projects/TestApp/TestApp/bin/Debug/TestApp.exe
+/Users/leiannelouis/Projects/TestApp/TestApp/bin/Debug/TestApp.pdb
+/Users/leiannelouis/Projects/TestApp/TestApp/obj/x86/Debug/TestApp.csprojAssemblyReference.cache
+/Users/leiannelouis/Projects/TestApp/TestApp/obj/x86/Debug/TestApp.csproj.CoreCompileInputs.cache
+/Users/leiannelouis/Projects/TestApp/TestApp/obj/x86/Debug/TestApp.exe
+/Users/leiannelouis/Projects/TestApp/TestApp/obj/x86/Debug/TestApp.pdb
